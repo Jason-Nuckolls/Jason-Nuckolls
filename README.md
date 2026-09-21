@@ -2,4 +2,4 @@ Jason Nuckolls
 I'm an editorial strategist and writer. I spent four years at Newsweek as Publishing Editor, where I built the AI and technology vertical from a blank page and ran coverage operations across sustainability, energy, and the workplace. Before that I wrote financial and market coverage for professional readers, ghostwrote for C-suite executives, and closed a daily newspaper at night, which teaches you what a deadline means.
 I'm here because I believe you can't write well about technology from the outside. I've worked through Harvard's CS50 to understand what I cover, and at Newsweek I built and scaled AI-assisted production workflows inside a working newsroom, using tools like Claude and ChatGPT to raise output without lowering the quality bar.
 The through line in my work: taking expertise that lives in people's heads and making it durable, legible, and worth reading.
-Find me on LinkedIn at https://www.linkedin.com/in/jason-daniel-n-40601535/ or at jasondnuckolls.com, or at jdnuckolls@gmail.com.
+Find me on LinkedIn at https://www.linkedin.com/in/jason-daniel-n-40601535/ or at https://www.jasondnuckolls.com, or at jdnuckolls@gmail.com.
